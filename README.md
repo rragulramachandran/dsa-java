@@ -1,6 +1,14 @@
 # DSA Java
 
-A learning repository for Data Structures and Algorithms practice using Java.
+Data Structures and Algorithms practice using Java.
+
+## Practice
+
+This repository contains my solutions and notes as I work through a structured DSA roadmap, including topics covered in Striver's A2Z DSA Sheet.
+
+My TakeUForward profile:
+
+[View my DSA progress](https://takeuforward.org/profile/ragulr)
 
 ## Topics
 
@@ -17,22 +25,13 @@ A learning repository for Data Structures and Algorithms practice using Java.
 - Hashing
 - Bit Manipulation
 
-## Practice
-
-Solutions are added as I learn and practice different DSA concepts.
-
-The repository follows a structured DSA roadmap and includes problems commonly covered in resources such as Striver's A2Z DSA Sheet.
-
-## Purpose
-
-- Build strong DSA fundamentals
-- Improve problem-solving skills
-- Practice clean Java solutions
-- Prepare for technical interviews
-
 ## Language
 
 Java
+
+## Purpose
+
+To strengthen DSA fundamentals, improve problem-solving skills, and prepare for technical interviews.
 
 ## Status
 
