@@ -1,38 +1,37 @@
-# DSA Java
+# Data Structures and Algorithms in Java
 
-Data Structures and Algorithms practice using Java.
-
-## Practice
-
-This repository contains my solutions and notes as I work through a structured DSA roadmap, including topics covered in Striver's A2Z DSA Sheet.
-
-My TakeUForward profile:
-
-[View my DSA progress](https://takeuforward.org/profile/ragulr)
+A learning repository for practising Data Structures and Algorithms (DSA) in Java, including topics covered by Striver's A2Z DSA Sheet.
 
 ## Topics
 
-- Arrays
-- Strings
-- Linked Lists
-- Stacks and Queues
+- Arrays and strings
+- Linked lists
+- Stacks and queues
 - Recursion
-- Sorting and Searching
-- Trees
-- Graphs
-- Greedy Algorithms
-- Dynamic Programming
+- Sorting and searching
+- Trees and graphs
+- Greedy algorithms
+- Dynamic programming
 - Hashing
-- Bit Manipulation
+- Bit manipulation
 
-## Language
+The folder structure and set of completed exercises may grow as practice continues.
 
-Java
+## Run a Java program
+
+Install a JDK, then compile and run a source file from the directory containing it:
+
+```bash
+javac Main.java
+java Main
+```
+
+Replace `Main.java` and `Main` with the actual filename and public class name. Some online-judge solutions use a platform-specific class or method signature and may require a local test harness.
+
+## Practice profile
+
+Follow my progress on [TakeUForward](https://takeuforward.org/profile/ragulr).
 
 ## Purpose
 
-To strengthen DSA fundamentals, improve problem-solving skills, and prepare for technical interviews.
-
-## Status
-
-Active learning repository.
+This repository helps strengthen Java fundamentals, algorithmic thinking, and interview problem-solving. It is an active learning repository rather than a packaged application.
